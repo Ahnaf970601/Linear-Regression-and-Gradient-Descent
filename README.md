@@ -1,6 +1,6 @@
 # Linear-Regression-and-Gradient-Descent
 
-1) Linear Regression:- Here I have demonstrated how to linear regression is used to solve the problem statement which is as follows:- 
+1) Linear Regression:- Here I have demonstrated how linear regression is used to solve the problem statement which is as follows:- 
 
 
 Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet.
